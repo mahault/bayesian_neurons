@@ -4,7 +4,6 @@
 1. Plot results of neural net test
 
    Test with exiting code:
-    - 1. Try Lars's plot function
     - 2. Interpret / figure out what it means
     - 3. Adjust if needed 
     
